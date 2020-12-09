@@ -1,0 +1,22 @@
+ const nevada2016 =  `
+Metropolitan/Nonmetropolitan,County,Violent crime,Murder and nonnegligent manslaughter,Rape (revised definition)1,Rape (Legacy definition)2,Robbery,Aggravated assault,Property crime,Burglary,Larceny-theft,Motor vehicle theft,Arson
+Metropolitan Counties,Carson City,154,1,3,,18,132,971,206,681,84,6
+,Storey,43,1,1,,0,41,73,21,46,6,1
+,Washoe,132,1,24,,7,100,770,202,465,103,7
+Nonmetropolitan Counties,Churchill,28,0,5,,0,23,185,63,108,14,2
+,Douglas,67,0,11,,2,54,795,117,633,45,3
+,Elko,48,2,0,,0,46,193,38,127,28,4
+,Esmeralda,1,0,0,,0,1,5,1,4,0,0
+,Eureka,7,0,1,,1,5,38,19,17,2,0
+,Humboldt,29,0,4,,0,25,67,32,30,5,2
+,Lander,40,3,12,,1,24,112,57,45,10,1
+,Lincoln,3,0,1,,0,2,37,9,27,1,2
+,Lyon,137,3,15,,8,111,567,138,367,62,7
+,Mineral,6,0,1,,0,5,21,12,1,8,0
+,Nye,80,0,13,,12,55,915,338,465,112,1
+,Pershing,29,2,4,,0,23,46,20,25,1,0
+,White Pine,13,0,1,,3,9,82,25,42,15,3
+
+`;
+
+export default nevada2016;
